@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RequestDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bd82394-5c50-4933-bf84-b95804ddb6fa</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a434a1c3-35c2-4c30-bc5d-d452e6f4aa1a</id>
+      <masked>false</masked>
+      <name>Nama</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd518726-0c0d-42c2-8b3c-92273ea50905</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0dd34894-add8-4be3-8fbe-d78e01dc7353</id>
+      <masked>false</masked>
+      <name>NoHp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3326d25c-296f-46fb-8b1e-49b259f5eb67</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c437ba4b-518c-48a5-99f1-97395b5da1cf</id>
+      <masked>false</masked>
+      <name>Expectation</name>
+   </variable>
+</TestCaseEntity>
