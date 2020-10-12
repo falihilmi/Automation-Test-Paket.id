@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateNewDemoRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>834e52f4-b212-47c1-afa8-d85a8c5f9768</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67da06a8-3050-4eaf-b5b8-c1234b2b8cd8</id>
+      <masked>false</masked>
+      <name>full_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea08100d-b26a-4e69-b551-9b379c82d992</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>742c148d-a9d2-4330-afaf-c02d21ad2909</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d3dcf59-2e19-458a-8e98-19b9388a67c4</id>
+      <masked>false</masked>
+      <name>organization_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9600d1c4-9708-4112-b4b1-36633d975aa7</id>
+      <masked>false</masked>
+      <name>Expectation</name>
+   </variable>
+</TestCaseEntity>
